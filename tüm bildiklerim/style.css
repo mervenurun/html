@@ -1,0 +1,206 @@
+* html, body{
+    margin:0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-image:url(image/Texture.png);
+}
+.header{
+    height: 150px;
+    width:100%;
+    
+   
+    
+
+}
+ .header1{
+    width:200px ;
+    height:150px;
+  
+    margin: 0 0 0 550px;
+   
+}
+.headerlogo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 60px;
+    color: rgb(37, 37, 37);
+    text-align: center;
+
+
+}
+.menu ul {
+    text-align: center;
+    font-size: 15px;
+    color: darkslategray;
+    
+    margin:10px 30px 0 0px;
+    
+} 
+.menu ul a{
+    border: 1px rgb(59, 54, 54) solid;
+    text-decoration: none;
+    justify-content:space-between;
+    padding: 10px 30px 10px 30px; 
+    border-radius: 12px;
+    color: rgb(59, 54, 54);
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+.menu ul a:hover{
+    background-color:rgb(255, 255, 255);
+    color:rgb(27, 25, 25);
+    font-size: 17px;
+    background-color:#a69574;
+    text-decoration: none;
+}
+.slider{
+    width: 100%;
+    height: 900px;
+    border: 1px solid green;
+    margin-top:10px
+}
+.sliderr1{
+    margin:0 50px 0 50px;
+}
+.sliderr2{
+    margin: -600px 0 50px 550px;
+    height: 300px;
+}
+.sliderr3{
+    margin: -420px 0 50px 930px;
+}
+.sliderr4{
+    margin:100px 0 0 900px ;
+}
+.sliderr5{
+    margin:-90px 0 0 500px ;
+}
+.sliderr6{
+    margin:-460px 0 0 1200px ;
+}
+.slideryzi{
+    text-decoration: dotted;
+    font-size: 40px;
+    margin: -250px 0 0 150px;
+}
+.slideryazi1{
+    text-decoration:double;
+    font-size: 30px;
+    margin: 0px 0 0 150px; 
+}
+.slideryazi2{
+    text-decoration:double;
+    font-size: 30px;
+    margin: 40px 0 0 150px;
+    color:#a69574; 
+}
+.slideryazi3{
+    text-decoration:double;
+    font-size: 20px;
+    margin: 40px 0 0 150px;
+    color:#6b4a09; 
+}
+.slider2{
+    height: 500px;
+    width: 100%;
+    border: aqua 1px solid;
+}
+.slider2r{
+    margin: -800px 0 0 30px; 
+}
+.slider2menu ul{
+    width: 200px;
+    height: 230px;
+    padding: 0 5px 0 5px;
+    position: relative;
+    margin: -5500px 0 0 800px ;
+}
+.slider2menu ul a{
+    border: 3px solid rgb(27, 25, 25);
+    align-items: flex-end;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 5px 5px 5px 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color:rgb(27, 25, 25) ;
+    font-size: 16px;
+    text-decoration:none;
+   
+}
+.slider2menu ul a:hover{
+    background-color:rgb(255, 255, 255);
+    color:rgb(27, 25, 25);
+    font-size: 17px;
+    background-color:#a69574;
+}
+.slider2yazi{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    color: #a69574;
+    margin: -400px 0 0 800px;
+}
+.slider2yazi2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(59, 54, 54);
+    margin: 10px 0 0 800px; 
+}
+.slider2yazi3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(59, 54, 54);
+    margin: 220px 0 0 800px;
+}
+.slider3{
+    width: 100%;
+    height: 600px;
+    border: mediumvioletred 1px solid;
+    margin-top: 220px;
+    background-image: url(image/kahverengi\ bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.slider3yzi{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: rgb(59, 54, 54);
+    text-align: center;
+    margin-top: 100px;
+}
+.slider3yzi1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: rgb(59, 54, 54);
+    margin-top: 0px;
+    text-align: center;
+}
+.slider3yzi2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    color: rgb(59, 54, 54);
+    margin-top: 0px;
+    text-align: center;
+}
+.slider3yzi3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(59, 54, 54);
+    margin-top: 0px;
+    text-align: center;
+}
+.slider3r{
+    margin-top: -200px;
+}
+.slider3r1{
+    margin: -290px 0 0 1000px;
+}
+.slider4{
+    margin-top: -101px;
+    height: 500px;
+    width: 100%;
+    background-image: url(image/karebg.png);
+}
